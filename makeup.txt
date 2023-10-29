@@ -1,0 +1,4 @@
+lipstick:2
+eyliner:1
+powder:3
+clips:2
